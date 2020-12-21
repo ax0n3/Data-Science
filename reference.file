@@ -1,0 +1,61 @@
+python
+sql
+_
+numpy
+pandas
+mathplotlib
+_
+
+PYTHON 
+_file open_>
+def main():
+  with open('file.txt') as file:
+    print(file)
+
+#comment
+""" '''
+multi level comment
+''' """
+
+_class_>
+class Book:
+  type = "Book"
+  def __init__(self, name):
+    self.name = name
+  def title():
+    print(self.name)    
+
+theory = Book("Electronics")
+
+theory.type
+theory.title()
+_
+class Object:
+  pass
+
+_lambda function_> standalone function
+square = lambda x: x * x
+square(2)
+
+_dictionary>
+dict[key]
+dict.get(key)
+items() all key:value
+
+_lists tuples >
+list = []
+tuple = ()
+set = {}
+
+_type casting>
+int(x) 
+float(x) 
+str(x)
+
+
+_
+SQL
+
+SELECT from movies
+WHERE rating > 3.0
+  
