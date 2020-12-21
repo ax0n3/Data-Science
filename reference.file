@@ -42,7 +42,7 @@ dict[key]
 dict.get(key)
 items() all key:value
 
-_lists tuples >
+_lists tuples sets>
 list = []
 tuple = ()
 set = {}
