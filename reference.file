@@ -22,7 +22,7 @@ class Book:
   type = "Book"
   def __init__(self, name):
     self.name = name
-  def title():
+  def _repr__():
     print(self.name)    
 
 theory = Book("Electronics")
@@ -58,4 +58,4 @@ SQL
 
 SELECT from movies
 WHERE rating > 3.0
-  
+                                                 
