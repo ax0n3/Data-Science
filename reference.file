@@ -59,3 +59,29 @@ SQL
 SELECT from movies
 WHERE rating > 3.0
                                                  
+ALTER TABLE table_name
+ADD column_name datatype
+
+INSERT INTO table_name(col1, col2)
+VALUES (val1, val2)
+
+SELECT address FROM records 
+WHERE address IS NOT NULL
+
+SELECT * FROM MOVIES
+WHERE year BETWEEN 1980 and 1990
+
+_
+Numpy
+
+_
+Pandas
+_series>
+_dataframe>
+_panel>
+
+_
+Matplotlib
+_plot>
+_axis>
+_show>
